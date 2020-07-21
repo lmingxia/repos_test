@@ -1,0 +1,1 @@
+echo -e "Subject: iFAMS Account Inactivity\n\nDear iFAMS User,\nYour user id matthew.verna in iFAMS has expired and you need to contact the FSC service desk to get it reset, https://vaww.cpm.fsc.va.gov/.\n\n***Please do not reply to this email***\n\nThanks,\n VA FMBT iFAMS Support" | /usr/sbin/sendmail -f DoNotReply@va.gov Matthew.Verna@va.gov
